@@ -1,3 +1,7 @@
 h1 {
-	font: Lucita Sans Unicode;
+	font-family: 'Lucita Sans Unicode';
+	color: white;
+}
+body {
+	background-image: url(http://cdn.wonderfulengineering.com/wp-content/uploads/2014/06/gear-wallpaper-6.jpg);
 }
