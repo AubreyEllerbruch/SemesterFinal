@@ -1,7 +1,53 @@
 h1 {
-	font-family: 'Lucita Sans Unicode';
-	color: white;
+font-family: 'Lucida Sans Unicode';
+font-style: normal;
+color: black;
 }
+
 body {
-	background-image: url(http://cdn.wonderfulengineering.com/wp-content/uploads/2014/06/gear-wallpaper-6.jpg);
+background-image: url("http://i1308.photobucket.com/albums/s602/dizzygrl/website_zpshw23gtef.jpg"
+);
+background-size: 100% 100%;
+background-repeat: no-repeat;
+color: white;
+font-family: 'Helvetica';
+font-style: normal;
+}
+
+#nav1 {
+list-style-type: none;
+float: left;
+padding: 4;
+background-color: #333;
+width: 15%;
+margin-left: 450px;
+}
+
+#nav1 li {
+float: left;
+}
+
+#nav2 {
+list-style-type: none;
+float: left;
+padding: 4;
+background-color: #333;
+width: 15%;
+}
+
+#nav2 li {
+	float: left;
+}
+
+#nav3 {
+list-style-type: none;
+float: left;
+padding: 4;
+background-color: #333;
+width: 15%;
+margin-left: 925px;
+}
+
+#nav3 li {
+	float: left;
 }
