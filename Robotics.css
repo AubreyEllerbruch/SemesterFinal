@@ -2,6 +2,8 @@ h1 {
 font-family: 'Lucida Sans Unicode';
 font-style: normal;
 color: black;
+margin-bottom: 0;
+height: 37px;
 }
 
 body {
@@ -18,36 +20,34 @@ font-style: normal;
 list-style-type: none;
 float: left;
 padding: 4;
-background-color: #333;
 width: 15%;
-margin-left: 450px;
+margin-left: 510px;
+margin-bottom: 10px;
+margin-right: 0
+
 }
 
 #nav1 li {
 float: left;
+color: black;
+font-family: 'Helvetica';
+font-weight: bold;
 }
 
 #nav2 {
 list-style-type: none;
-float: left;
+float: middle;
 padding: 4;
-background-color: #333;
 width: 15%;
+margin-left: 760px;
+padding-right: 10
+
 }
 
 #nav2 li {
-	float: left;
-}
-
-#nav3 {
-list-style-type: none;
 float: left;
-padding: 4;
-background-color: #333;
-width: 15%;
-margin-left: 925px;
+color: black;
+font-family: 'Helvetica';
+font-weight: bold;
 }
 
-#nav3 li {
-	float: left;
-}
